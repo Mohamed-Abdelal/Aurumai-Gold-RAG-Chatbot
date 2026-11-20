@@ -53,8 +53,7 @@ doc_norms = np.linalg.norm(docs, axis=1)
 denominators = np.maximum(doc_norms * query_norm, 1e-10)
 similarities = np.clip(dot_products / denominators, -1.0, 1.0)
 sorted_indices = np.argsort(similarities)[::-1]  # Descending Top-K
-```
->>>>>>> d1dc4e51bc93812b763d1e23fb88094bbdabca65
+``` 
 
 ---
 
@@ -73,7 +72,7 @@ sorted_indices = np.argsort(similarities)[::-1]  # Descending Top-K
 ├── index/
 │   ├── embeddings.npz             # Pre-computed (44 × 384) float32 NumPy embedding matrix
 │   └── chunks.json                # Serialized chunk texts & provenance metadata
->>>>>>> d1dc4e51bc93812b763d1e23fb88094bbdabca65
+=======
 ├── src/
 │   ├── config.py               # Paths and RAG hyperparameters
 │   ├── loader.py               # .txt loader & 4-line header parser
@@ -90,8 +89,7 @@ sorted_indices = np.argsort(similarities)[::-1]  # Descending Top-K
 │   ├── results.json            # Saved evaluation metrics & responses
 │   └── evaluation_report.md    # Full qualitative comparison report
 ├── app.py                      # Streamlit web application
-├── requirements.txt            # Python dependencies
-└── .env.example                # API key template
+└── requirements.txt            # Python dependencies
 =======
 │   ├── questions.json             # 10 test questions (6 fact, 2 multi-doc profile, 2 out-of-scope)
 │   ├── run_evaluation.py          # Automated With-RAG vs. Without-RAG benchmark (5s Groq sleep)
@@ -100,7 +98,6 @@ sorted_indices = np.argsort(similarities)[::-1]  # Descending Top-K
 ├── app.py                         # Multi-tab AurumAI Streamlit web application
 ├── requirements.txt               # Minimal Python dependencies
 └── README.md
->>>>>>> d1dc4e51bc93812b763d1e23fb88094bbdabca65
 ```
 
 ---
@@ -128,7 +125,6 @@ streamlit run app.py
 ```bash
 python eval/run_evaluation.py --model openai/gpt-oss-120b --top-k 4 --delay 5.0
 ```
->>>>>>> d1dc4e51bc93812b763d1e23fb88094bbdabca65
 
 ---
 
@@ -167,8 +163,3 @@ The repository is lightweight (~200 KB total including all 20 `.txt` articles an
      ```
    - *(Visitors can also paste their own free Groq API key directly in the sidebar, and Tab 3's Knowledge Base Explorer & Pure-NumPy Retrieval Debugger work even without an API key.)*
 4. **Click Deploy:** Streamlit Cloud installs `requirements.txt` (using lightweight CPU PyTorch wheels), loads the pre-built `index/embeddings.npz` + `index/chunks.json` in seconds, and launches the live AurumAI web demo.
-
----
-
-*Disclaimer: AurumAI is an educational AI project and does not provide licensed financial or investment advice.*
->>>>>>> d1dc4e51bc93812b763d1e23fb88094bbdabca65

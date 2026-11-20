@@ -1,4 +1,4 @@
-"""End-to-end RAG pipeline orchestrating Embeddings, Pure-NumPy Retrieval, and Groq LLM."""
+"""End-to-end RAG pipeline combining Embeddings, Pure-NumPy Retrieval, and Groq LLM."""
 
 from __future__ import annotations
 
@@ -23,7 +23,7 @@ from src.retriever import NumPyVectorIndex, RetrievedChunk
 
 @dataclass
 class RAGResult:
-    """Full output of a single query through the RAG or baseline pipeline."""
+    """Output of a single query through the RAG or Without-RAG pipeline."""
 
     question: str
     llm_response: LLMResponse
@@ -61,8 +61,6 @@ class RAGPipeline:
         question: str,
         top_k: int = DEFAULT_TOP_K,
         min_similarity: float = DEFAULT_MIN_SIMILARITY,
-        doc_filter: Optional[str] = None,
-        category_filter: Optional[str] = None,
     ) -> List[RetrievedChunk]:
         """Embed the query and fetch Top-K chunks via pure-NumPy cosine similarity."""
         query_vec = self.embedding_model.embed_query(question)
@@ -70,8 +68,6 @@ class RAGPipeline:
             query_embedding=query_vec,
             top_k=top_k,
             min_similarity=min_similarity,
-            doc_filter=doc_filter,
-            category_filter=category_filter,
         )
 
     def _require_llm(self, llm_client: Optional[GroqLLMClient]) -> GroqLLMClient:
@@ -89,8 +85,6 @@ class RAGPipeline:
         temperature: float = DEFAULT_TEMPERATURE,
         max_completion_tokens: int = DEFAULT_MAX_COMPLETION_TOKENS,
         chat_history: Optional[List[Dict[str, str]]] = None,
-        doc_filter: Optional[str] = None,
-        category_filter: Optional[str] = None,
         llm_client: Optional[GroqLLMClient] = None,
     ) -> RAGResult:
         """Execute full Retrieval-Augmented Generation."""
@@ -99,8 +93,6 @@ class RAGPipeline:
             question=question,
             top_k=top_k,
             min_similarity=min_similarity,
-            doc_filter=doc_filter,
-            category_filter=category_filter,
         )
         response = client.generate_with_rag(
             question=question,
@@ -121,7 +113,7 @@ class RAGPipeline:
         chat_history: Optional[List[Dict[str, str]]] = None,
         llm_client: Optional[GroqLLMClient] = None,
     ) -> RAGResult:
-        """Execute direct LLM generation without retrieval (baseline)."""
+        """Execute direct LLM generation without retrieval (baseline comparison)."""
         client = self._require_llm(llm_client)
         response = client.generate_without_rag(
             question=question,
@@ -140,11 +132,9 @@ class RAGPipeline:
         model: str = DEFAULT_GROQ_MODEL,
         temperature: float = DEFAULT_TEMPERATURE,
         max_completion_tokens: int = DEFAULT_MAX_COMPLETION_TOKENS,
-        doc_filter: Optional[str] = None,
-        category_filter: Optional[str] = None,
         llm_client: Optional[GroqLLMClient] = None,
     ) -> Dict[str, RAGResult]:
-        """Run both With-RAG and Without-RAG on the same question for side-by-side comparison."""
+        """Run both With-RAG and Without-RAG on the same question."""
         with_rag = self.answer_with_rag(
             question=question,
             top_k=top_k,
@@ -152,8 +142,6 @@ class RAGPipeline:
             model=model,
             temperature=temperature,
             max_completion_tokens=max_completion_tokens,
-            doc_filter=doc_filter,
-            category_filter=category_filter,
             llm_client=llm_client,
         )
         without_rag = self.answer_without_rag(
@@ -167,12 +155,9 @@ class RAGPipeline:
 
     def get_stats(self) -> Dict:
         docs = self.index.get_unique_documents()
-        categories = self.index.get_unique_categories()
         return {
             "num_documents": len(docs),
             "num_chunks": self.index.num_chunks,
-            "num_categories": len(categories),
-            "categories": categories,
             "embedding_dim": self.index.embedding_dim,
             "embedding_model": self.embedding_model.model_name,
         }

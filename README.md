@@ -142,24 +142,6 @@ Tested on **10 questions** ([`eval/questions.json`](eval/questions.json)): **6 g
 | **Hallucination / Boundary Violations** | **0.0%** | 20.0% | **-20.0 pp** |
 
 Full question-by-question answers and scores are available in [`eval/evaluation_report.md`](eval/evaluation_report.md) and inside the **📊 Evaluation Results** tab of the app.
-
----
-
-<<<<<<< HEAD
-*Disclaimer: AurumAI is a student educational project and does not provide licensed financial advice.*
-=======
-## 7. Deploying Live Demo to Streamlit Community Cloud
-
-The repository is lightweight (~200 KB total including all 20 `.txt` articles and the pre-built NumPy index) and ready for instant deployment on **Streamlit Community Cloud**:
-
-1. **Push to GitHub:** Create a new GitHub repository and push this project (`data/`, `index/`, `eval/`, `src/`, `scripts/`, `app.py`, `requirements.txt`). Secrets (`.env`) are automatically excluded by `.gitignore`.
-2. **Deploy on Streamlit Cloud:**
-   - Go to [https://share.streamlit.io](https://share.streamlit.io) → click **Create app** → **Deploy a public app from GitHub**.
-   - Select your repository, branch (`main`), and main file path: `app.py`.
-3. **Configure Secrets (Recommended for Live Demo):**
-   - Open **Advanced settings → Secrets** (or **Settings → Secrets** after deploy) and add:
-     ```toml
-     GROQ_API_KEY = "gsk_your_groq_api_key_here"
      ```
    - *(Visitors can also paste their own free Groq API key directly in the sidebar, and Tab 3's Knowledge Base Explorer & Pure-NumPy Retrieval Debugger work even without an API key.)*
 4. **Click Deploy:** Streamlit Cloud installs `requirements.txt` (using lightweight CPU PyTorch wheels), loads the pre-built `index/embeddings.npz` + `index/chunks.json` in seconds, and launches the live AurumAI web demo.

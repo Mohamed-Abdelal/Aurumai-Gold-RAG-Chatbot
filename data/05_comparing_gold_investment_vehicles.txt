@@ -1,0 +1,34 @@
+Title: Side-by-Side Comparison of Gold Investment Vehicles
+Category: Beginner Investment Vehicles
+Date: 2026-11-15
+Source: AurumAI Investment Desk Guide
+
+Choosing the right gold vehicle depends on four practical dimensions: upfront spread and ongoing fees, liquidity speed, minimum budget, and counterparty risk. Comparing the four main vehicles—Physical Bullion, Gold ETFs / Regulated Gold Funds, Digital Gold, and Gold Mining Stocks—helps investors avoid mismatches between their goals and their instrument.
+
+1. Physical Bullion (24K Bars & Bullion Coins):
+- Minimum Ticket: Moderate to High (best efficiency at 10g+ bars or full gold pounds).
+- Typical Spread & Fees: 1.5% to 6% upfront fabrication/dealer spread (higher on 1g–5g bars); 0% ongoing management fee if stored privately, or 0.5% to 1.0% annually for insured bank/vault storage.
+- Liquidity: Moderate (requires visiting an accredited dealer during business hours with invoice and sealed pack).
+- Counterparty Risk: None (direct physical title).
+- Best For: Long-term savers (3–5+ years) seeking tangible wealth preservation and systemic crisis protection.
+
+2. Gold ETFs & Regulated Gold Mutual Funds (e.g., GLDM, IAU, or Egypt's AZ-Gold):
+- Minimum Ticket: Very Low (fractional shares or small fund minimums).
+- Typical Spread & Fees: 0.02% to 0.15% ETF trading spread (or tiered early-redemption fees for mutual funds) plus 0.10% to 1.0% annual management/expense ratio.
+- Liquidity: High (instant exchange liquidity for ETFs; T+1 to T+3 settlement for mutual funds).
+- Counterparty Risk: Low (strictly regulated custodians and audited allocated bullion).
+- Best For: Monthly Dollar-Cost Averaging, portfolio rebalancing, students, and small-budget investors.
+
+3. Digital Gold Apps:
+- Minimum Ticket: Ultra-Low (micro-investing from small cash amounts).
+- Typical Spread & Fees: 2% to 4% embedded buy-sell spread plus potential custody and physical delivery markups.
+- Liquidity: High inside the app, slower for physical bar conversion.
+- Counterparty Risk: Moderate to High if the platform lacks formal securities regulation and segregated vault audits.
+- Best For: Small-ticket convenience only when regulated ETFs or gold mutual funds are inaccessible.
+
+4. Gold Mining Stocks & Royalty Companies:
+- Minimum Ticket: Low (standard stock/ETF share price).
+- Typical Spread & Fees: Brokerage commission + 0.50% ETF fee for miner baskets; potential dividend yield.
+- Liquidity: Very High (equity exchange hours).
+- Counterparty & Business Risk: High (equity market crashes, mine accidents, geopolitical taxes).
+- Best For: Experienced growth-oriented investors seeking leveraged equity upside, not pure defensive hedging.

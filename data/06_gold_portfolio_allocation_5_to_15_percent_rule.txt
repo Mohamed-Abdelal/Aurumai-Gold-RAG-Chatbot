@@ -1,0 +1,13 @@
+Title: Gold Portfolio Allocation Rules: The 5% to 15% Framework
+Category: Portfolio Allocation & Strategies
+Date: 2026-11-15
+Source: AurumAI Portfolio Research
+
+Across institutional asset-allocation studies and World Gold Council historical backtests, the standard core recommendation for gold in a diversified personal investment portfolio is between 5% and 15% of total investable assets. This range is large enough to meaningfully cushion equity bear markets, inflation spikes, and currency devaluations, yet small enough that gold's lack of compounding cash flow does not drag down long-term portfolio growth.
+
+Investors should calibrate their exact percentage inside the 5%–15% corridor based on risk profile, macro environment, and local currency stability:
+- Conservative Growth / Stable-Currency Investor (5% to 8% Gold): Ideal for investors earning and spending in reserve currencies (USD, EUR, CHF) with a long 15+ year growth horizon focused primarily on broad stock index funds and bonds. A 5%–8% gold sleeve reduces portfolio drawdowns and improves the Sharpe ratio without sacrificing equity compounding.
+- Balanced / Moderate Investor (10% Gold): The classic institutional benchmark. At 10%, gold provides measurable diversification during stagflation (high inflation combined with sluggish economic growth), when both stocks and conventional bonds often fall simultaneously.
+- Emerging-Market / High-Inflation Hedge Investor (12% to 15% Gold): Appropriate for savers living in economies experiencing persistent double-digit inflation or periodic local-currency depreciation (such as Egypt or similar emerging markets). Raising gold toward 15%—or up to 20% in conservative defensive structures—protects real purchasing power in local-currency terms.
+
+Why avoid putting 50% to 100% of your net worth into gold? Gold is a wealth preserver, not a productive wealth generator. Over multi-decade spans, productive assets like diversified equities, profitable businesses, and real estate compound through earnings reinvestment and rent/dividends, whereas an ounce of gold remains one ounce of gold. Conversely, holding 0% gold leaves a portfolio fully exposed to monetary debasement and sovereign bond selloffs. Treating gold as an intentional 5%–15% strategic anchor—never an all-in gamble—delivers its strongest risk-adjusted benefit.

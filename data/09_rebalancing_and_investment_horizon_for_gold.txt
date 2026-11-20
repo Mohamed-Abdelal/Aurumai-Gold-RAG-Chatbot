@@ -1,0 +1,14 @@
+Title: Rebalancing Rules and Minimum Investment Horizon for Gold
+Category: Portfolio Allocation & Strategies
+Date: 2026-11-15
+Source: AurumAI Portfolio Research
+
+Two discipline habits determine whether gold strengthens or hurts an investor's financial outcome: matching gold to the right **time horizon** and applying systematic **rebalancing rules**.
+
+**Minimum Recommended Horizon (3 to 5+ Years):** Gold is notoriously erratic over weeks and months. Even within secular bull markets, gold routinely undergoes 8% to 15% corrections or sideways consolidations lasting 6 to 18 months. Furthermore, physical bullion investors start "underwater" on day one due to dealer bid-ask spreads and making charges (typically 2% to 6% round-trip). For these reasons, gold should generally only be funded with capital you do not need for at least **3 to 5 years**. Money needed within 3 to 12 months—such as upcoming tuition fees, wedding expenses, rent deposits, or an emergency fund—should stay in high-yield cash equivalents, Treasury bills, or liquid money market funds rather than gold.
+
+**Rebalancing Strategies:** Without rebalancing, a strong gold rally can quietly distort a portfolio's risk profile. Two proven mechanical methods keep your gold weight on target:
+1. **Calendar Rebalancing:** Review your portfolio once every 6 or 12 months (for example, every January and July). If your target gold allocation is 10% and it has drifted to 14%, trim 4% back into your underweight asset classes; if gold dropped to 7%, direct new monthly savings into gold until it returns to 10%.
+2. **Tolerance-Band (Threshold) Rebalancing:** Set a ±25% relative band (or ±3 to ±5 percentage points) around your target allocation. For a 10% target, you only rebalance if gold exceeds 13% or falls below 7%. Research shows threshold rebalancing captures volatility spikes more effectively than rigid calendar dates while minimizing unnecessary trading costs and tax events.
+
+**Cash-Flow Rebalancing for Physical Gold Holders:** Because selling a fraction of a physical bar is inconvenient and incurs spreads, physical gold holders should rebalance primarily through **new cash inflows**—pausing new gold purchases and directing monthly savings into equities or fixed income when gold exceeds its target allocation, rather than repeatedly selling and re-buying physical metal.

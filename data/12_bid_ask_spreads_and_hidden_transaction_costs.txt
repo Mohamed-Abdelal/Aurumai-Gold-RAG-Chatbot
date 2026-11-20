@@ -1,0 +1,13 @@
+Title: Bid-Ask Spreads and Hidden Transaction Costs in Gold
+Category: Risks, Costs & 2026 Market
+Date: 2026-11-15
+Source: AurumAI Risk Analysis
+
+One of the most underestimated drags on gold investment returns is the **round-trip transaction cost**—the combined gap between what you pay to acquire gold and what you receive if you sell it back on the very same day.
+
+Three components make up total transaction friction:
+1. **Dealer Bid-Ask Spread:** The difference between the dealer's selling price (ask) and buying price (bid) for raw gold weight. For liquid Gold ETFs (like GLDM or IAU), the bid-ask spread is minuscule at 0.02% to 0.08%. For local physical bullion dealers, the raw spot bid-ask spread typically runs 0.5% to 1.5% in calm markets, but can widen to 2% to 4% during extreme volatility or rapid currency swings.
+2. **Fabrication Premium / Making Charge (Masna'eya):** Physical bars and coins carry an upfront minting, refining, assay, and packaging fee. Because fixed minting costs are spread over fewer grams, small bars suffer steeply higher percentage markups: a 1-gram bar often costs 6% to 12% over spot, a 5-gram bar 3.5% to 5.5%, a 10-gram bar 2.5% to 4%, and a 50g or 100g bar just 1.5% to 2.5%. Fashion jewelry is worst of all for investing, with 15% to 35% non-recoverable workmanship markups.
+3. **Fund Management & Early-Redemption Fees:** Spot Gold ETFs charge 0.10% to 0.40% per year with no exit penalty. Local gold mutual funds (such as Egypt's AZ-Gold) charge an annual management/custody fee (around 1% total expense ratio) plus a sliding early-redemption fee (typically starting around 4.9% in year 1 and declining to 0% after 3 full years) specifically designed to discourage short-term speculation.
+
+**Break-Even Holding Period Rule:** If your combined upfront making charge plus bid-ask spread equals 4% to 6%, gold must rise by at least 4% to 6% merely for you to break even. Never use high-spread physical bullion or 3-year-vesting gold mutual funds for short-term trading or 3-to-9-month cash parking.

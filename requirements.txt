@@ -1,0 +1,16 @@
+# Prefer lightweight CPU-only PyTorch wheels on Linux (Streamlit Community Cloud)
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core UI & LLM
+streamlit>=1.48.0
+groq>=0.18.0
+python-dotenv>=1.0.1
+
+# RAG Pipeline & Pure-NumPy Retrieval
+numpy>=1.26.0
+torch>=2.2.0
+sentence-transformers>=3.3.0
+
+# Evaluation & Data Utilities
+pandas>=2.2.0
+tqdm>=4.66.0

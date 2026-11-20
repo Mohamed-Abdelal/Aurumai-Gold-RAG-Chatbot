@@ -1,0 +1,15 @@
+Title: Gold Mining Stocks and Royalty Streaming Companies
+Category: Beginner Investment Vehicles
+Date: 2026-11-15
+Source: AurumAI Investment Desk Guide
+
+Gold mining stocks and precious-metal royalty companies offer indirect equity exposure to gold prices rather than direct ownership of bullion. Mining producers—such as Newmont, Barrick Gold, and Agnico Eagle—explore, extract, and refine gold ore, while mining ETFs like VanEck Gold Miners ETF (GDX) and Junior Gold Miners ETF (GDXJ) bundle dozens of producers into one tradeable fund.
+
+The primary appeal of gold miners is operational leverage and dividend potential. Because a miner's All-In Sustaining Cost (AISC) to extract an ounce of gold might sit around $1,350 to $1,550, a 15% increase in the spot gold price can expand the miner's profit margin by 30% to 45%. Unlike physical bullion or spot ETFs, profitable major miners can also pay cash dividends to shareholders.
+
+However, mining equities behave very differently from physical gold during market crises and should never be treated as a pure safe-haven substitute. Miners expose investors to severe equity and company-specific risks:
+- Cost Inflation: Rising diesel fuel, electricity, labor, and equipment costs can squeeze margins even when spot gold rises.
+- Operational and Geopolitical Risk: Mine collapses, labor strikes, environmental permit delays, ore-grade shortfalls, and windfall taxes or nationalization in host countries can devastate a single stock.
+- Broad Stock Market Correlation: During acute stock market selloffs, mining shares frequently fall alongside the S&P 500 because institutional investors liquidate equities indiscriminately, undermining gold's defensive hedge role right when protection is needed most.
+
+Gold royalty and streaming companies (such as Franco-Nevada, Wheaton Precious Metals, and Royal Gold) offer a middle ground. Instead of operating mines, they provide upfront financing to miners in exchange for a fixed percentage of future revenue or the right to purchase gold at deeply discounted fixed prices. Royalty firms maintain high operating margins and lower cost-inflation risk than direct miners, though they still carry stock-market valuation risk. Beginners should build their core defensive gold allocation with physical bullion, spot Gold ETFs, or regulated gold funds before considering mining stocks as a higher-volatility satellite sleeve (typically capped at 2% to 5% of a portfolio).

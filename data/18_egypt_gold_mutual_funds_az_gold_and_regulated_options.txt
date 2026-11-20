@@ -1,0 +1,24 @@
+Title: Egypt Gold Mutual Funds: AZ-Gold and FRA-Regulated Options
+Category: Egypt Gold Buying Guide
+Date: 2026-11-15
+Source: AurumAI Egypt Market Desk
+
+For Egyptian investors who want gold exposure without paying steep small-bar making charges (*masna'eya*) or worrying about home theft and fake bullion, **Egyptian Gold Mutual Funds** regulated by the **Financial Regulatory Authority (FRA / الهيئة العامة للرقابة المالية)** provide a transparent, Sharia-compliant alternative.
+
+**Flagship Example: AZ-Gold (Azimut Egypt Gold Fund):**
+Launched in May 2023 as Egypt's first regulated open-ended precious metals fund, AZ-Gold is managed by **Azimut Egypt Asset Management**, with physical 24K gold bullion (999.9 purity) sourced via accredited refiners (such as Evolve Investment Holding) and stored in FRA-licensed, fully insured custodian vaults. Additional FRA-regulated local gold funds (such as Beltone Evolve Gold / *Sabayek* and Ahli Evolve Gold / *Dahab*) follow a similar regulatory framework.
+
+**Key Features & Mechanics of AZ-Gold:**
+- **Ultra-Low Minimum Investment:** Investors can subscribe starting from very small tickets (historically starting around 100 certificates / roughly EGP 1,000–2,000 initially, with subsequent top-ups as small as EGP 100–500 depending on the receiving broker/app such as Thndr, Rumble, Mubasher, or Azimut directly). This makes AZ-Gold ideal for students and monthly Dollar-Cost Averaging (DCA).
+- **Zero Physical Making Charges & Zero Home-Storage Risk:** Because the fund buys wholesale institutional bullion, retail investors avoid the EGP 150+/gram retail markup on 1g bars and never worry about keeping physical gold safe at home.
+- **Pricing & Liquidity:** Net Asset Value (NAV) is published twice weekly (typically Mondays and Thursdays) tracking the local Egyptian 24K gold price benchmark set on the Egyptian Exchange (EGX) gold price feed. Subscription and redemption orders are executed on designated weekly dealing days (usually T+2/T+3 settlement to your bank or brokerage wallet).
+- **Physical Redemption Option:** Investors who accumulate a substantial balance (typically at least 50 grams of gold equivalent) can elect physical bullion delivery upon redemption (subject to delivery/fabrication procedures), or simply redeem in EGP cash.
+
+**Fee Structure to Watch (Early Redemption Tiers):**
+AZ-Gold charges an ongoing annual management/custody expense (around 1% per year) and a **declining redemption fee** designed for long-term savers:
+- Redeeming in **Year 1:** ~4.9% redemption fee
+- Redeeming in **Year 2:** ~3.3% redemption fee
+- Redeeming in **Year 3:** ~1.7% redemption fee
+- Redeeming **after 3 full years:** **0% redemption fee**
+
+**Bottom Line:** AZ-Gold and peer FRA-regulated Egyptian gold funds are arguably the single best vehicle for Egyptian students, salaried savers doing monthly DCA, and anyone investing under EGP 10,000/month with a **3+ year horizon**. However, because of the ~4.9% Year-1 exit fee, they should NOT be used for short-term cash parking under 12 months.

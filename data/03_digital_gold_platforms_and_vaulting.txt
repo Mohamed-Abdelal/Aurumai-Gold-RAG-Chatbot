@@ -1,0 +1,15 @@
+Title: Digital Gold Platforms and Vaulted Fractional Ownership
+Category: Beginner Investment Vehicles
+Date: 2026-11-15
+Source: AurumAI Investment Desk Guide
+
+Digital gold platforms allow retail investors to purchase fractional ownership of 24-karat physical bullion—sometimes starting with as little as $10 or a few hundred Egyptian Pounds—via mobile apps or fintech wallets. Behind the scenes, the platform purchases pooled or allocated bullion stored in insured third-party vaults (such as Brink's, Loomis, or local accredited depositories) and credits the user's digital account with grams or milligrams of gold.
+
+For beginners and students with small monthly budgets, digital gold removes the high entry barrier of buying a full 5-gram or 10-gram bar. Many platforms offer automated recurring purchases, instant 24/7 pricing, and the option to convert accumulated digital grams into delivered physical bars once the balance crosses a minimum threshold (typically 1 gram, 5 grams, or 10 grams plus minting and delivery fees).
+
+Despite its convenience, digital gold carries distinct risks and hidden costs that beginners frequently overlook:
+1. Counterparty and Regulatory Risk: Unlike regulated stock-exchange ETFs or licensed mutual funds, many standalone digital gold apps operate outside strict securities supervision. If a private fintech platform faces insolvency, fraud, or frozen bank rails, users may struggle to prove legal title to segregated bullion.
+2. Hidden Spreads: While apps advertise "zero commission," they routinely embed wide buy-sell spreads of 2% to 4% between their quoted buy price and sell price, plus storage fees (0.12% to 0.50% per year) or conversion/shipping fees upon physical withdrawal.
+3. Delivery Friction: Converting digital balances into physical bars often triggers extra making charges (fabrication fees) and insured courier fees that negate the initial convenience.
+
+Best practice for investors considering digital gold is to verify three safeguards before depositing capital: independent third-party vault audits published quarterly, legally segregated ("allocated") client ownership rather than unallocated IOUs, and explicit licensing from a national financial regulator. Where a regulated local gold mutual fund or low-cost Gold ETF is available, regulated funds generally offer stronger investor protection than unregulated digital gold wallets.

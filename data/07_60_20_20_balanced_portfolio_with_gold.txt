@@ -1,0 +1,18 @@
+Title: The 60/20/20 Balanced Portfolio Split with Gold
+Category: Portfolio Allocation & Strategies
+Date: 2026-11-15
+Source: AurumAI Portfolio Research
+
+For decades, the traditional 60/40 portfolio (60% equities and 40% government/corporate bonds) served as the default balanced allocation. However, inflationary episodes from 2022 through 2026 exposed a structural flaw in the 60/40 model: when inflation surges and central banks hike or keep interest rates elevated, stock prices and long-duration bond prices can decline at the exact same time, breaking the negative correlation that 60/40 relied upon.
+
+To address this vulnerability, many modern asset allocators adopt the **60/20/20 portfolio split**:
+- **60% Equities (Growth Engine):** Broad domestic and global stock index funds or quality dividend equities designed to capture corporate earnings growth and long-term compounding.
+- **20% Fixed Income & Cash Equivalents (Income & Liquidity Buffer):** Short-term Treasury bills, high-yield money market funds, or inflation-linked bonds providing steady yield and emergency dry powder.
+- **20% Gold & Hard-Asset Alternatives (Inflation & Tail-Risk Shield):** Primarily allocated to physical gold bullion, Gold ETFs, or regulated gold funds (typically 10% to 15% pure gold, optionally paired with 5% to 10% commodities or real-asset exposure, or a full 20% gold sleeve for investors in high-inflation local currencies).
+
+How the 60/20/20 split performs across economic regimes:
+- During strong disinflationary growth, the 60% equity sleeve drives wealth creation.
+- During deflationary recessions or sudden liquidity crunches, the 20% short-duration fixed income/cash sleeve preserves nominal capital and funds opportunistic buying.
+- During stagflation, sovereign debt concerns, geopolitical shocks, or currency devaluation, the 20% gold/alternatives sleeve rallies strongly to offset losses in stocks and bonds.
+
+Implementing a 60/20/20 portfolio requires disciplined rebalancing once or twice a year. If gold rallies sharply and pushes the 20% sleeve to 26%, trimming the excess 6% back into undervalued equities or Treasury bills systematically locks in gains ("selling high and buying low") without trying to time market tops.

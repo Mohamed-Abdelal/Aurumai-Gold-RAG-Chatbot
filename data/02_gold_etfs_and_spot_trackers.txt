@@ -1,0 +1,12 @@
+Title: Gold ETFs and Spot Price Trackers Explained
+Category: Beginner Investment Vehicles
+Date: 2026-11-15
+Source: AurumAI Investment Desk Guide
+
+Gold Exchange-Traded Funds (Gold ETFs) are publicly listed investment funds that track the live spot price of gold by holding allocated physical gold bullion in institutional bank vaults (typically in London, Zurich, or New York). Prominent global examples include SPDR Gold Shares (GLD, 0.40% annual expense ratio), iShares Gold Trust (IAU, 0.25% annual expense ratio), and SPDR Gold MiniShares (GLDM, 0.10% annual expense ratio). Because ETF shares trade on stock exchanges throughout market hours, investors can buy or sell gold exposure in seconds through any standard brokerage account.
+
+The biggest operational advantages of Gold ETFs over physical bullion are razor-thin bid-ask spreads (often 0.02% to 0.08% on major exchanges), zero personal storage or insurance logistics, low fractional entry cost (a single share of a low-cost mini ETF often costs under $60), and seamless integration into portfolio rebalancing. If an investor wants to trim gold from 15% back to 10% after a rally, an ETF allows exact dollar-amount selling without having to liquidate an entire physical bar.
+
+However, Gold ETFs come with recurring annual management fees (expense ratios typically between 0.10% and 0.45% per year) that gradually erode the amount of gold represented per share over multi-decade holding periods. For example, at a 0.40% annual fee, an investor pays roughly 4% in cumulative drag over 10 years—still competitive with physical spreads and bank vault fees, but higher than holding a single paid-off bar in an already-owned home safe.
+
+Another distinction is custody and settlement structure. Retail Gold ETF investors own financial shares rather than directly retrievable bars; physical redemption is usually restricted to Authorized Participants redeeming large creation units (such as 100,000 shares). Furthermore, in some jurisdictions (such as the United States), physically backed gold ETFs may be taxed at collectibles capital gains rates rather than standard long-term equity rates. Overall, Gold ETFs are ideal for diversified portfolio builders, active rebalancers, and investors who prioritize high liquidity and low transaction friction over holding physical metal in hand.

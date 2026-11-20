@@ -108,7 +108,6 @@ sorted_indices = np.argsort(similarities)[::-1]  # Descending Top-K
 │   └── evaluation_report.md       # Full quantitative & qualitative evaluation report
 ├── app.py                         # Multi-tab AurumAI Streamlit web application
 ├── requirements.txt               # Minimal Python dependencies
-├── .env.example                   # Environment variable template for GROQ_API_KEY
 └── README.md
 ```
 
